@@ -35,3 +35,32 @@ A modern, responsive coffee website clone built using **HTML**, **CSS**, and **J
 
 ## 📁 Project Structure
 
+coffee-website_-clone/
+│
+├── assets/
+│ ├── css/
+│ ├── js/
+│ └── images/
+│
+├── index.html
+├── README.md
+└── ...
+
+yaml
+Copy
+Edit
+
+---
+
+## 📚 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Manoj-B-S/coffee-website_-clone.git
+Open index.html in your browser.
+
+🎓 Internship Acknowledgment
+This project was completed as part of the Edunet Foundation internship program, focusing on real-world frontend development practices.
+
+🙌 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
